@@ -1,7 +1,7 @@
 ##########################################################################################################################
 #This python script does the DNA analysis of COVID virus. It also does the phylogenetic analysis of the COVID-19 DNA #####
 #It uses genebank to read COVID DNA files and does the analysis								 #
-#Written by Jitendra Moon												 #
+#Written by Manav Kapadnis And Jitendra Moon												 #
 ##########################################################################################################################
 
 from __future__ import division
